@@ -2,7 +2,7 @@
 
 ## Linktree project
 
-See the out [here](https://dedy-linktree2.web.app/)
+See the final result [here](https://dedy-linktree2.web.app/)
 
 ### Create a React.js App
 
